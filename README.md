@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=📱+Mobile+App+Developer;🤖+Android+%7C+🍎+iOS+Engineer; Kotlin+%7C+Swift+%7C+SwiftUI+%7C+Jetpack+Compose;Turning+ideas+into+apps+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Mobile+App+Developer;Android+%7C+iOS+Engineer;Kotlin+%7C+Swift+%7C+SwiftUI+%7C+Jetpack+Compose;Turning+ideas+into+apps)](https://git.io/typing-svg)
 
 </div>
 
